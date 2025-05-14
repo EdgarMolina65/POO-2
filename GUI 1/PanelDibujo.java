@@ -23,3 +23,7 @@ public class PanelDibujo extends JPanel
         g.drawLine(0, altura, anchura, 0);
     }
 }//Fin clase PanelDibujo
+
+
+//Fill -> Para llenar figura
+//Draw -> Para dibujar figura 
